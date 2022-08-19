@@ -6,12 +6,9 @@
 		<name>Pascal Jäger</name>
 	</maintainer>
 	<upstream>
-		<remote-id type="github">Antynea/grub-btrfs</remote-id>
+		<remote-id type="gitlab">gobonja/timeshift-autosnap</remote-id>
 	</upstream>
 	<longdescription lang="en">
-		Improves Grub by adding "btrfs snapshots" to the Grub menu.
-
-		You can boot your system on a "snapshot" from the Grub menu.
-		Supports manual snapshots, snapper, timeshift ...
+		Timeshift auto-snapshot script which runs before package operations of emerge
 	</longdescription>
 </pkgmetadata>
